@@ -1,0 +1,7 @@
+/* Code tidied up by ScrapBook */
+.elementor-column-gap-default > .elementor-row > .elementor-column > .elementor-element-populated { padding: 10px; }
+@media (min-width: 768px) and (max-width: 1024px) {
+}
+@media (max-width: 767px) {
+  .elementor-column { width: 100%; }
+}
