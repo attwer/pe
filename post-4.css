@@ -1,0 +1,41 @@
+/* Code tidied up by ScrapBook */
+.elementor-4 .elementor-element.elementor-element-db88dca { padding: 50px 0px; }
+.elementor-4 .elementor-element.elementor-element-ab4b406 .hfe-retina-image-container, .elementor-4 .elementor-element.elementor-element-ab4b406 .hfe-caption-width { text-align: center; }
+.elementor-4 .elementor-element.elementor-element-ab4b406 .hfe-retina-image img { width: 180px; }
+.elementor-4 .elementor-element.elementor-element-ab4b406 .hfe-retina-image-container .hfe-retina-img { border-style: none; }
+.elementor-4 .elementor-element.elementor-element-a6c231e { text-align: center; }
+.elementor-4 .elementor-element.elementor-element-a6c231e .elementor-heading-title { color: rgb(122, 122, 122); font-family: "Karla",sans-serif; text-transform: capitalize; line-height: 1.5em; letter-spacing: 1px; }
+.elementor-4 .elementor-element.elementor-element-a6c231e > .elementor-widget-container { margin: 20px 0px 0px; }
+.elementor-4 .elementor-element.elementor-element-55a34bc { --grid-template-columns: repeat(0, auto); --icon-size: 15px; --grid-column-gap: 15px; --grid-row-gap: 0px; }
+.elementor-4 .elementor-element.elementor-element-55a34bc .elementor-widget-container { text-align: center; }
+.elementor-4 .elementor-element.elementor-element-55a34bc .elementor-social-icon { background-color: rgba(26, 108, 122, 0.14); --icon-padding: 0.75em; }
+.elementor-4 .elementor-element.elementor-element-55a34bc .elementor-social-icon i { color: rgb(26, 108, 122); }
+.elementor-4 .elementor-element.elementor-element-55a34bc .elementor-social-icon:hover { background-color: rgb(26, 108, 122); }
+.elementor-4 .elementor-element.elementor-element-55a34bc .elementor-social-icon:hover i { color: rgb(255, 255, 255); }
+.elementor-4 .elementor-element.elementor-element-55a34bc > .elementor-widget-container { margin: 0px 0px -12px; }
+.elementor-4 .elementor-element.elementor-element-2fadcb5 { border-style: solid; border-width: 1px 0px 0px; border-color: rgb(219, 232, 235); transition: background 0.3s ease 0s, border 0.3s ease 0s, border-radius 0.3s ease 0s, box-shadow 0.3s ease 0s; }
+.elementor-4 .elementor-element.elementor-element-784472f > .elementor-element-populated { padding: 20px 15px 20px 0px; }
+.elementor-4 .elementor-element.elementor-element-c45bcf5 .hfe-copyright-wrapper { text-align: left; }
+.elementor-4 .elementor-element.elementor-element-c45bcf5 .hfe-copyright-wrapper a, .elementor-4 .elementor-element.elementor-element-c45bcf5 .hfe-copyright-wrapper { color: rgb(26, 108, 122); }
+.elementor-4 .elementor-element.elementor-element-c45bcf5 .hfe-copyright-wrapper, .elementor-4 .elementor-element.elementor-element-c45bcf5 .hfe-copyright-wrapper a { font-size: 14px; }
+@media (max-width: 1024px) and (min-width: 768px) {
+  .elementor-4 .elementor-element.elementor-element-ea9610d { width: 40%; }
+  .elementor-4 .elementor-element.elementor-element-784472f { width: 100%; }
+}
+@media (max-width: 1024px) {
+  .elementor-4 .elementor-element.elementor-element-db88dca { padding: 50px 30px; }
+  .elementor-4 .elementor-element.elementor-element-ab4b406 .hfe-retina-image img { width: 150px; }
+  .elementor-4 .elementor-element.elementor-element-784472f > .elementor-element-populated { padding: 18px 30px; }
+  .elementor-4 .elementor-element.elementor-element-c45bcf5 .hfe-copyright-wrapper, .elementor-4 .elementor-element.elementor-element-c45bcf5 .hfe-copyright-wrapper a { font-size: 14px; }
+}
+@media (max-width: 767px) {
+  .elementor-4 .elementor-element.elementor-element-db88dca { padding: 40px 20px; }
+  .elementor-4 .elementor-element.elementor-element-ab4b406 .hfe-retina-image-container, .elementor-4 .elementor-element.elementor-element-ab4b406 .hfe-caption-width { text-align: center; }
+  .elementor-4 .elementor-element.elementor-element-ab4b406 .hfe-retina-image img { width: 60%; }
+  .elementor-4 .elementor-element.elementor-element-a6c231e { text-align: center; }
+  .elementor-4 .elementor-element.elementor-element-55a34bc .elementor-widget-container { text-align: center; }
+  .elementor-4 .elementor-element.elementor-element-55a34bc > .elementor-widget-container { margin: 10px 0px -15px; }
+  .elementor-4 .elementor-element.elementor-element-784472f > .elementor-element-populated { padding: 20px 55px; }
+  .elementor-4 .elementor-element.elementor-element-c45bcf5 .hfe-copyright-wrapper { text-align: center; }
+  .elementor-4 .elementor-element.elementor-element-c45bcf5 .hfe-copyright-wrapper, .elementor-4 .elementor-element.elementor-element-c45bcf5 .hfe-copyright-wrapper a { font-size: 13px; }
+}
